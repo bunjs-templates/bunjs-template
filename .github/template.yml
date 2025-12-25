@@ -1,0 +1,9 @@
+name: Bun NestJS Template
+description: A modern NestJS template using Bun.js runtime and Biome.js for linting/formatting
+tags:
+  - bun
+  - typescript
+  - biome
+  - template
+
+
